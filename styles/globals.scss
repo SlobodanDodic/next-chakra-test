@@ -1,0 +1,12 @@
+@import "./Home.module.scss";
+@import "./About.module.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
